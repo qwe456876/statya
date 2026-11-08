@@ -1,0 +1,5 @@
+FAR,FRR,APCER,BPCER,attack,threshold,EER
+0.025,0.0,0.0,0.0,replay,0.6,
+0.025,0.0,0.0125,0.0,converted,0.6,
+0.025,0.0,0.1,0.0,synthetic,0.6,
+0.025,0.0,0.03333333333333333,0.0,deepfake,0.6,
